@@ -65,7 +65,6 @@
 </p>
 
 <br/>
-<br/>
 
 ## Spotify Playing 
 <p align="center">
