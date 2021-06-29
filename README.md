@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="220px" src="http://www.recbookcreative.com/upload/hizmetler/yazaglagmcag-gif.gif" height="300px"/></a>
+<a href="#"><img width="100%" height="400px" src="http://www.recbookcreative.com/upload/hizmetler/yazaglagmcag-gif.gif" height="500px"/></a>
 
 <h1 align="center">Hi, I'm Yiğit</h1>
 <h3 align="center">I'm a  Developer from Turkey.</h3>
