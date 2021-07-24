@@ -14,6 +14,10 @@
 
 -  Fun fact I lova draw and play games
 
+-  I've been dealing with discord bot codes for 1-2 years
+
+
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
