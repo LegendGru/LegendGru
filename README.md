@@ -74,5 +74,4 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/0kpqdqnqbru8ckpminoqcftvt)
 
-<h3>🌟 Sosyal medya hesaplarım!</h3>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/358197437858447363)](https://discord.com/users/358197437858447363)
+
