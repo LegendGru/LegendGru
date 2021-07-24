@@ -63,6 +63,8 @@
 <a href = "https://www.instagram.com/yiit.ozcn/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://discord.gg/jk4Xfv4NCe"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>
 <a href = "https://legendgru.github.io/Legendgruu/"><img src="https://img.icons8.com/office/40/000000/copy-link.png"/>
+
+
 </p>
 
 <br/>
@@ -71,3 +73,6 @@
 <p align="center">
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/0kpqdqnqbru8ckpminoqcftvt)
+
+<h3>🌟 Sosyal medya hesaplarım!</h3>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/358197437858447363)](https://discord.com/users/358197437858447363)
