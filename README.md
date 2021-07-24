@@ -8,11 +8,11 @@
 
 
 
-- 🌱 I’m currently learning everything 
+-  I’m currently learning everything 
 
-- 🥅 I'm improving myself every day
+-  I'm improving myself every day
 
-- ⚡ Fun fact I lova draw and play games
+-  Fun fact I lova draw and play games
 
 ## 🚀 Languages and Tools:
 
