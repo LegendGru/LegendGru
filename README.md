@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Yiğit</h1>
+<h1 align="center">Hi, I'm LegendGru</h1>
 <h3 align="center">I'm a  Developer from Turkey.</h3>
 
 
