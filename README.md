@@ -63,7 +63,7 @@
 <a href = "https://legendgru.github.io/Legendgruu/"><img src="https://img.icons8.com/office/40/000000/copy-link.png"/>
 <br/>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=LegendGru&label=Profil+Ziyaretçi&style=plastic&color=blue" alt="LegendGru" />
+<img src="https://komarev.com/ghpvc/?username=LegendGru&label=Profile+Viewers&style=plastic&color=blue" alt="LegendGru" />
 
 </p>
 
