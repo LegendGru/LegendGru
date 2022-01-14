@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Fraud</h1>
+<h1 align="left">Hi there, I'm Fraud</h1>
 
 
 ## My Account
