@@ -2,8 +2,8 @@
 
 <h1 align="left">Hi there, I'm Fraud</h1>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=LegendGru&label=Profile+Viewers&style=plastic&color=blue" alt="LegendGru" />
-<a href="https://instagram.com/yiit.ozcn"><img src="https://img.shields.io/badge/@yiit.ozcn-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=LegendGru&label=Profile+Viewers&style=plastic&color=blue" alt="LegendGru" /><a href="https://instagram.com/yiit.ozcn"><img src="https://img.shields.io/badge/@yiit.ozcn-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+
 
 
 ## My Account
@@ -52,9 +52,6 @@
 <a href = "https://discord.gg/for"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>
 <a href = "https://legendgru.github.io/LegendGruu/"><img src="https://img.icons8.com/office/40/000000/copy-link.png"/>
 <br/>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=LegendGru&label=Profile+Viewers&style=plastic&color=blue" alt="LegendGru" />
-<a href="https://instagram.com/yiit.ozcn"><img src="https://img.shields.io/badge/@yiit.ozcn-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 </p>
 
 <br/>
