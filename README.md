@@ -3,17 +3,9 @@
 <h1 align="center">Hi, I'm Fraud</h1>
 
 
-## About Me
+## My Account
 
-
-
--  I’m currently learning everything 
-
--  I'm improving myself every day
-
--  Fun fact I lova draw and play games
-
--  I've been dealing with discord bot codes for 1-2 years
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/358197437858447363?theme=dark&bg=0e0d0d&animated=false&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/358197437858447363)
 
 
 
