@@ -51,7 +51,7 @@
 <br/>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=LegendGru&label=Profile+Viewers&style=plastic&color=blue" alt="LegendGru" />
-
+<a href="https://instagram.com/yiit.ozcn"><img src="https://img.shields.io/badge/@yiit.ozcn-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 </p>
 
 <br/>
