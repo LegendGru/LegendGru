@@ -38,11 +38,8 @@
   <a href="https://github.com/LegendGru/github-readme-stats"><img alt="LegendGru's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-
-
 <br/>
 <br/>
-
 
 ## Connect with me:
 <p align="left">
@@ -53,9 +50,3 @@
 <a href = "https://legendgru.github.io/LegendGruu/"><img src="https://img.icons8.com/office/40/000000/copy-link.png"/>
 <br/>
 </p>
-
-<br/>
-
-
-
-
