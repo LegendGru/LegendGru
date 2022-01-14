@@ -54,7 +54,7 @@
 
 
 <a href = "https://twitter.com/_Yiid"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://discord.gg/jk4Xfv4NCe"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>
+<a href = "https://discord.gg/for"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>
 <a href = "https://legendgru.github.io/LegendGruu/"><img src="https://img.icons8.com/office/40/000000/copy-link.png"/>
 <br/>
 <br/>
