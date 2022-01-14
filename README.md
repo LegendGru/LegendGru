@@ -2,9 +2,8 @@
 
 # Hi there, I'm Fraud
 <img src="https://komarev.com/ghpvc/?username=LegendGru&label=Profile+Viewers&style=plastic&color=blue" alt="LegendGru" />&nbsp;
-<a href="https://instagram.com/yiit.ozcn"><img src="https://img.shields.io/badge/@yiit.ozcn-E4405F?style=flat&logo=Instagram&logoColor=white"/>&nbsp;
-<a href = "https://legendgru.github.io/LegendGruu/"><img src="https://img.icons8.com/office/40/000000/copy-link.png"/>
-
+<a href="https://instagram.com/yiit.ozcn"><"https://img.shields.io/static/v1?label=Follow&message=yiit.ozcn&color=red&?style=plastic&logo=Instagram"/>&nbsp;
+<a href="https://legendgru.github.io/LegendGruu/"><"https://img.shields.io/static/v1?label=Click&message=Contact%20Me&color=red&?style=plastic&logo=Mouse"/>&nbsp;
 
 ## My Account
 
