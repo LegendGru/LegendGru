@@ -2,8 +2,8 @@
 
 # Hi there, I'm Fraud
 <img src="https://komarev.com/ghpvc/?username=LegendGru&label=Profile+Viewers&style=plastic&color=blue" alt="LegendGru" />&nbsp;
-<a href="https://instagram.com/yiit.ozcn"><img src="https://img.shields.io/badge/@yiit.ozcn-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-
+<a href="https://instagram.com/yiit.ozcn"><img src="https://img.shields.io/badge/@yiit.ozcn-E4405F?style=flat&logo=Instagram&logoColor=white"/>&nbsp;
+<a href = "https://legendgru.github.io/LegendGruu/"><img src="https://img.icons8.com/office/40/000000/copy-link.png"/>
 
 
 ## My Account
@@ -37,16 +37,3 @@
     <a href="https://github.com/LegendGru/github-readme-stats"><img alt="LegendGru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LegendGru&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/LegendGru/github-readme-stats"><img alt="LegendGru's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-
-<a href = "https://twitter.com/_Yiid"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://discord.gg/for"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>
-<a href = "https://legendgru.github.io/LegendGruu/"><img src="https://img.icons8.com/office/40/000000/copy-link.png"/>
-<br/>
-</p>
