@@ -4,6 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=LegendGru&label=Profile+Viewers&style=plastic&color=blue" alt="LegendGru" />&nbsp;
 <a href="https://instagram.com/yiit.ozcn"><img src="https://img.shields.io/static/v1?label=Follow&message=yiit.ozcn&color=red&style=plastic&logo=Instagram"/>&nbsp;
 <a href="https://legendgru.github.io/LegendGruu/"><img src="https://img.shields.io/static/v1?label=Click&message=Contact%20Me&color=blueviolet&style=plastic&"/>&nbsp;
+<a href="https://github.com/LegendGru/"><img src="https://img.shields.io/static/v1?label=My+Other&message=Github%20Account&color=bluet&style=plastic&"/>&nbsp;
 ## My Account
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/358197437858447363?theme=dark&bg=0e0d0d&animated=false&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/358197437858447363)
