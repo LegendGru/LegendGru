@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Fraud
+# Hi there, I'm Yiğit
 <img src="https://komarev.com/ghpvc/?username=LegendGru&label=Profile+Viewers&style=plastic&color=blue" alt="LegendGru" />&nbsp;
 <a href="https://instagram.com/yiit.ozcn"><img src="https://img.shields.io/static/v1?label=Follow&message=yiit.ozcn&color=red&style=plastic&logo=Instagram"/>&nbsp;
 <a href="https://github.com/LegendGru/"><img src="https://img.shields.io/static/v1?label=My+Other&message=Github%20Account&color=bluet&style=plastic&"/>&nbsp;
